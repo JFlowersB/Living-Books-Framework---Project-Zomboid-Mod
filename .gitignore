@@ -1,14 +1,5 @@
-# Ignore everything
 *
-
-# Allow folders
 !*/
-
-# Allow Lua files
 !*.lua
-
-# Allow JSON files
 !*.json
-
-# Allow TXT files
 !*.txt
